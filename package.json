@@ -1,0 +1,27 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Aprendiendo SASS y npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TonyPDev/FestivalMusica.git"
+  },
+  "keywords": [
+    "SASS",
+    "NPM",
+    "Gulp"
+  ],
+  "author": "Carlos Pérez @TonyPDev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TonyPDev/FestivalMusica/issues"
+  },
+  "homepage": "https://github.com/TonyPDev/FestivalMusica#readme",
+  "devDependencies": {
+    "sass": "^1.84.0"
+  }
+}
